@@ -1,4 +1,4 @@
 console.log("Hola Mundo");
 function saludar(){
-    document.getElementById("saludo") = saludo;
+    let saludo = document.getElementById("saludo");
 }
